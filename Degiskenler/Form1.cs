@@ -6,5 +6,10 @@ namespace Degiskenler
         {
             InitializeComponent();
         }
+
+        private void Ornek()
+        {
+            string test = "";
+        }
     }
 }
